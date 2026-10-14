@@ -10,3 +10,7 @@ Video Link: https://www.loom.com/share/452c3d01a4a347d982f2380a69938a3d
 
 ## Conversational Flow:
 Video Link: https://www.loom.com/share/c9a6609daad445f0bf785acb7563417c
+
+## Knowledge File (RAG):
+Video Link: https://www.loom.com/share/aa0f727538ec4fc88e3adf71b5bd44ac
+
