@@ -17,3 +17,6 @@ Video Link: https://www.loom.com/share/aa0f727538ec4fc88e3adf71b5bd44ac
 ## Tool (Web search)
 Video Link: https://www.loom.com/share/93812ecb7a71485988c257cefb367719
 
+## Guardrail rules:
+Video Link: https://www.loom.com/share/c695619caf6c4981bd2ee6c4480aaa8f
+
