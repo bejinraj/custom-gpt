@@ -23,3 +23,6 @@ Video Link: https://www.loom.com/share/c695619caf6c4981bd2ee6c4480aaa8f
 ## Testing and Iteration:
 Video Link: https://www.loom.com/share/8a371dc9481b4af4b3c6e1cb544249ba
 
+## Optimization and Evaluation:
+Video Link: https://www.loom.com/share/8e0d748076804626832bef5abcdfc868
+
