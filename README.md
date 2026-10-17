@@ -26,3 +26,6 @@ Video Link: https://www.loom.com/share/8a371dc9481b4af4b3c6e1cb544249ba
 ## Optimization and Evaluation:
 Video Link: https://www.loom.com/share/8e0d748076804626832bef5abcdfc868
 
+## Capstone
+Video Link: https://www.loom.com/share/b5c7c9ea08564921b59e3c03e80530bb
+
